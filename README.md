@@ -1,10 +1,10 @@
-# Wigwam - Web3 Wallet
+# helloTakesi
 
-### https://wigwam.app
+### https://helloTakesi.app
 
 A browser extension Web3 wallet designed for Ethereum, Polygon, BNB Smart Chain, Arbitrum, and all EVM networks. Reliable and secure solution for managing accounts and crypto keys, exploring DeFi, NFTs, and GameFi.
 
-![Wigwam](./docs/banner.png)
+![helloTakesi](./docs/banner.png)
 
 **Table of Contents**
 
@@ -76,7 +76,7 @@ You can also find documentation for specific modules within the source code.
 ### Get the source code
 
 ```bash
-git clone git@github.com:wigwamapp/local-wigwam.git wigwam
+git clone git@github.com:helloTakesiapp/local-helloTakesi.git helloTakesi
 ```
 
 ### Install app dependencies
@@ -100,7 +100,7 @@ yarn build:firefox
 1. Open `chrome://extensions/` in your browser
 2. Enable "Developer mode"
 3. Tap on "Load unpacked"
-4. Select `<your_local_wigwam_repository_dir>/dist/prod/chrome_unpacked`
+4. Select `<your_local_helloTakesi_repository_dir>/dist/prod/chrome_unpacked`
 
 ## Useful scripts
 
